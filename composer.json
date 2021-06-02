@@ -1,6 +1,7 @@
 {
     "name": "uazgraduatecollege/cakephp-3-cas",
     "description": "CAS Authentication wrapper for CakePHP 3.x using Apereo (formerly Jasig) phpCAS",
+    "version": "2.0.0",
     "kewords": ["CAS", "authentication"],
     "license": [
       "MIT",
